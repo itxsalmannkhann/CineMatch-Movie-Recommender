@@ -68,7 +68,7 @@ Movie posters are fetched in real-time from the **TMDB API**, giving the app a r
   <img src="https://via.placeholder.com/800x450/0f0f23/FF4B4B?text=App+Screenshot+Here" alt="App Demo" width="800"/>
 </div>
 
-**Live Demo:** *(Deploy to Streamlit Cloud and add your link here)*
+**Live Demo:** *(Streamlit Cloud link here)*
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
 ---
@@ -203,7 +203,7 @@ selected_movie  →  recommend()  →  [top 5 movie titles]
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/cinematch-movie-recommender.git
+git clone https://github.com/your-itxsalmannkhann/cinematch-movie-recommender.git
 cd cinematch-movie-recommender
 ```
 
@@ -230,7 +230,7 @@ pip install -r requirements.txt
 Open and run the notebook end-to-end in Kaggle or Jupyter:
 
 ```bash
-jupyter notebook notebook/notebook86c26b4f17.ipynb
+jupyter notebook notebook/CineMatch Movie Recommender.ipynb
 ```
 
 This produces `movie_list.pkl` and `similarity.pkl`. Place them inside a `model/` directory:
@@ -315,35 +315,6 @@ keywords (collapsed)  │
 top-3 cast (collapsed)│
 director (collapsed)  ┘
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-```bash
-# 1. Fork the repo on GitHub
-
-# 2. Create your feature branch
-git checkout -b feature/AmazingFeature
-
-# 3. Commit your changes
-git commit -m "Add AmazingFeature"
-
-# 4. Push to the branch
-git push origin feature/AmazingFeature
-
-# 5. Open a Pull Request
-```
-
-**Ideas for improvement:**
-- [ ] Switch from Bag-of-Words to TF-IDF or BERT embeddings
-- [ ] Add collaborative filtering alongside content-based
-- [ ] Add genre/year filters to the UI
-- [ ] Cache TMDB API responses to reduce latency
-- [ ] Deploy on Streamlit Cloud with CI/CD via GitHub Actions
-- [ ] Add a user rating feature to personalize results
 
 ---
 
