@@ -329,7 +329,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 **Salman Khan** *@ AWKUM | AI/ML Full Stack Developer*
 **Sytros AI** *@ AWKUM | AI, ML Full Stack Solutions*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxsalmannkhann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
