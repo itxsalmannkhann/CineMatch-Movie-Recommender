@@ -29,7 +29,7 @@ This document is the single source of truth for how to contribute. Please read i
 ## 📜 Code of Conduct
 
 This project follows the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
-By participating, you are expected to uphold this standard. Please report unacceptable behaviour to the maintainer at **your.email@example.com**.
+By participating, you are expected to uphold this standard. Please report unacceptable behaviour to the maintainer at **khanhackersalman@gmail.com**.
 
 In short: **be kind, be constructive, be inclusive.**
 
@@ -278,7 +278,6 @@ git commit -m "feat(recommender): add TF-IDF vectorizer as an alternative to Cou
 git commit -m "fix(api): handle missing poster_path with a fallback placeholder image"
 git commit -m "docs(readme): add Streamlit Cloud deployment instructions"
 git commit -m "refactor(app): extract fetch_poster into a separate utils module"
-git commit -m "perf(model): cache similarity matrix using st.cache_data"
 
 # ❌ Bad
 git commit -m "fixed stuff"
