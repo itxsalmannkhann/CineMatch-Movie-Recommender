@@ -326,8 +326,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 <div align="center">
 
-**Your Name**
-**Salman Khan** @ AWKUM | AI/ML Full Stack Developer*
+**Salman Khan** *@ AWKUM | AI/ML Full Stack Developer*
+**Sytros AI** *@ AWKUM | AI, ML Full Stack Solutions*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
