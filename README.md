@@ -56,16 +56,14 @@
 
 Movie posters are fetched in real-time from the **TMDB API**, giving the app a rich, visual experience. The system was trained on the **TMDB 5000 Movie Dataset** (~5,000 movies).
 
-> 📚 Built as part of an AI/ML coursework project at **Abdul Wali Khan University Mardan**, 4th Semester.
+> 📚 Built as part of an AI/ML project at **Abdul Wali Khan University Mardan**, 6th Semester.
 
 ---
 
 ## 🎥 Demo
 
-> *(Replace the placeholder below with a real GIF or screenshot of your running app)*
-
 <div align="center">
-  <img src="https://via.placeholder.com/800x450/0f0f23/FF4B4B?text=App+Screenshot+Here" alt="App Demo" width="800"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*G3X6ERdceDqkQXuDr4xbOQ.gif" alt="App Demo" width="800"/>
 </div>
 
 **Live Demo:** *(Streamlit Cloud link here)*
