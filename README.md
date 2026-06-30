@@ -25,7 +25,7 @@
 
 <br>
 
-![Demo Banner](https://via.placeholder.com/900x300/1a1a2e/01B4E4?text=CineMatch+%E2%80%94+Movie+Recommender+System)
+![Demo Banner](./Resources/image.png)
 
 </div>
 
