@@ -344,7 +344,7 @@ git push origin feature/your-feature-name --force-with-lease
 - [ ] Ran `pytest` — all tests pass
 - [ ] Tested on movie: _____________
 
-## Screenshots (if applicable)
+## Screenshots
 <!-- Before / After screenshots or a short GIF -->
 
 ## Checklist
