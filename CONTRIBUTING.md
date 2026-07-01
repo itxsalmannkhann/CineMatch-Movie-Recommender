@@ -493,7 +493,3 @@ When adding an entry to `CHANGELOG.md`, follow this format:
 <div align="center">
 
 **Thank you for making CineMatch better. Happy coding! 🚀**
-
-*This document was inspired by best practices from [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md), [Rails](https://github.com/rails/rails/blob/main/CONTRIBUTING.md), and the [Contributor Covenant](https://www.contributor-covenant.org/).*
-
-</div>
