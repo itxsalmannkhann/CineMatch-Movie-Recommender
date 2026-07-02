@@ -67,7 +67,7 @@ Movie posters are fetched in real-time from the **TMDB API**, giving the app a r
 </div>
 
 **Live Demo:** *(Streamlit Cloud link here)*
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cinematchmr.streamlit.app/)
 
 ---
 
